@@ -1,2 +1,2 @@
 # Array-program
-The list of programms relatedto array i've done
+The list of programs relatedto array i've done
