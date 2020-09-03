@@ -1,2 +1,2 @@
 # Array-program
-An array program to check if the digits of a number are repeated
+The list of programms relatedto array i've done
